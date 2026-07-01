@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0744/v1
+canonical_location: https://kanripo.org/bkk/KR6j0744/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 持咒仙人飛鉢儀軌
+  identifiers:
+    alt_id:
+    - X59n1048
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1048.xml
+    old_id: X59n1048
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0744_000.yaml, hash: 'sha256:0146ff2ab323592349b9521ed451ebc1d3e5efff163fbef9c3c6bb0311db4061'}
+  - {seq: 1, filename: KR6j0744_001.yaml, hash: 'sha256:2785a475cacec188a44c9618c0dbf0f24a564c9c1a915f93d769381648efd2b2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0744_001.markers.yaml, hash: 'sha256:67fb4d25576f0b0f28db16288973ef2f58540918e4e8f9a72c341b07ae95ef66'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0744_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 904
+  label: 持呪仙人飛鉢儀軌
+  type: juan
+  level: 1
+hash: sha256:8a1e60d3b0498e0cd31e52e7cae5da4a69c803c3c14e06260eeb94b839d91e14
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
