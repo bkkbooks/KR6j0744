@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0744_000.yaml, hash: 'sha256:0146ff2ab323592349b9521ed451ebc1d3e5efff163fbef9c3c6bb0311db4061'}
-  - {seq: 1, filename: KR6j0744_001.yaml, hash: 'sha256:2785a475cacec188a44c9618c0dbf0f24a564c9c1a915f93d769381648efd2b2'}
+  - {seq: 1, filename: KR6j0744_001.yaml, hash: 'sha256:d306e6785525ab16f2ae28c8e499a128a05e8ac506ac5cd3cb38257285ea8ed4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0744_001.markers.yaml, hash: 'sha256:67fb4d25576f0b0f28db16288973ef2f58540918e4e8f9a72c341b07ae95ef66'}
+  - {seq: 0, role: markers, filename: assets/KR6j0744_000.markers.yaml, hash: 'sha256:a2a2677a41806dc82c2f07baa159600232b58089bc563ecab40d3d4c53a0251e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0744_001.markers.yaml, hash: 'sha256:e13d21b499235d8ecfdac9e192c2d7ba273bbd60e84f5744697e78481fb4206c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 持呪仙人飛鉢儀軌
   type: juan
   level: 1
-hash: sha256:8a1e60d3b0498e0cd31e52e7cae5da4a69c803c3c14e06260eeb94b839d91e14
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:17fc2511062d861471957e4b7aa2c722e18cd67aa7b0199bd4ffb56078842a62
 editions:
 - short: X
